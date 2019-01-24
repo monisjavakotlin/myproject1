@@ -6,7 +6,7 @@ data class Ticketkt(val origin: Int, val destination: Int, val price: Int)
 
 fun main(args: Array<String>) {
     var ticket = Ticketkt(20,51,420)
-    val s = "abcde"
+    val s = "abcdesfs"
     println(s.validate())
     // two method to generate random number(kotlin & java)
 
