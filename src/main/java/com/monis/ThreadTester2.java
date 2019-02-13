@@ -1,6 +1,6 @@
 package com.monis;
 
-public class ThreadTester {
+public class ThreadTester2 {
     public static void main(String[] args) {
         Thread thread = new Thread(){
             @Override
